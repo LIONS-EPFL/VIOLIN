@@ -1,6 +1,6 @@
 # 🎻 VIOLIN: Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers
 
-Official implementation of ICML'26 paper: Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers.
+Official implementation of [ICML'26 paper](https://arxiv.org/abs/2606.14757): Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers.
 
 
 
